@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="gamepad-insert-icon.svg"
+   id="svg1039"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+   xml:space="preserve"
+   version="1.1"
+   viewBox="-0.1 -1.2 55.000001 52.238702"
+   height="52.238705"
+   width="55"
+   inkscape:export-filename="/Users/ky/Documents/workspace/xcratch/xcx-gamepad/src/entry/block-icon.png"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72"><metadata
+   id="metadata1045"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+   id="defs1043">
+        
+        <clipPath
+   id="_clip1">
+            <rect
+   x="363.92801"
+   y="335.07501"
+   width="223.69299"
+   height="161.57899"
+   id="rect1001" />
+        </clipPath>
+        
+    
+            
+            
+            
+            
+            
+            
+            
+            
+        
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            </defs><sodipodi:namedview
+   inkscape:current-layer="svg1039"
+   inkscape:window-maximized="0"
+   inkscape:window-y="33"
+   inkscape:window-x="45"
+   inkscape:cy="25.766635"
+   inkscape:cx="30.243723"
+   inkscape:zoom="3.1785714"
+   showgrid="false"
+   id="namedview1041"
+   inkscape:window-height="957"
+   inkscape:window-width="1534"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   inkscape:document-rotation="0"
+   viewbox-height="164"
+   viewbox-x="-0.1"
+   viewbox-y="-1.2"
+   fit-margin-left="1"
+   fit-margin-top="7"
+   fit-margin-right="1"
+   fit-margin-bottom="7"
+   lock-margins="false" />
+    <g
+   id="g5613"
+   transform="matrix(0.23689879,0,0,0.23689879,0.6867911,5.8473798)"><path
+     id="path1004"
+     style="fill:#ebebeb;stroke:#000000;stroke-width:11.999;stroke-miterlimit:1.5;stroke-dasharray:none"
+     d="m 155.53934,5.9358272 c 23.16436,1.9854235 41.87438,14.4928478 55.29869,47.7633568 16.37399,40.579313 5.08492,90.875876 -17.24486,99.343876 -16.22239,6.15126 -22.49024,0.52796 -40.92609,-22.29078 H 72.870301 C 54.427995,153.58424 48.156112,159.20919 31.931302,153.05711 9.6015258,144.58911 -1.6875422,94.294195 14.685638,53.715709 28.110759,20.444374 46.81997,7.9377753 69.985137,5.9523518 v -0.152852 h 85.554203 z" /><circle
+     r="17.999878"
+     id="circle1008"
+     style="fill:#ebebeb;stroke:#000000;stroke-width:11.998px"
+     cy="95.09729"
+     cx="139.77396" /><circle
+     r="17.999878"
+     id="circle1012"
+     style="fill:#ebebeb;stroke:#000000;stroke-width:11.998px"
+     cy="42.469086"
+     cx="68.423164" /><path
+     id="path1016"
+     style="fill:#ebebeb;stroke:#000000;stroke-width:11.9973px"
+     d="m 74.975614,86.769369 h -7.506455 c -2.298239,0 -4.164699,1.865835 -4.164699,4.164699 v 8.328772 c 0,2.29823 1.86646,4.16469 4.164699,4.16469 h 7.506455 v 7.50646 c 0,2.29824 1.86646,4.1647 4.164698,4.1647 h 8.328773 c 2.298238,0 4.164698,-1.86646 4.164698,-4.1647 v -7.50646 h 7.506455 c 2.298242,0 4.164702,-1.86646 4.164702,-4.16469 v -8.328772 c 0,-2.298864 -1.86646,-4.164699 -4.164702,-4.164699 h -7.506455 v -7.506455 c 0,-2.298239 -1.86646,-4.164698 -4.164698,-4.164698 h -8.328773 c -2.298238,0 -4.164698,1.866459 -4.164698,4.164698 z" /><circle
+     r="9.0012989"
+     id="circle1020"
+     cy="42.471859"
+     cx="144.8819"
+     style="stroke-width:5.71511" /><circle
+     r="9.0012989"
+     id="circle1024"
+     cy="56.611858"
+     cx="159.03189"
+     style="stroke-width:5.71511" /><circle
+     r="9.0012989"
+     id="circle1028"
+     cy="42.471859"
+     cx="173.17189"
+     style="stroke-width:5.71511" /><circle
+     r="9.0012989"
+     id="circle1032"
+     cy="28.331861"
+     cx="159.03189"
+     style="stroke-width:5.71511" /></g>
+</svg>

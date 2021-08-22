@@ -11,10 +11,10 @@ import insetIconURL from './inset-icon.svg';
 
 const translationMap = {
     'ja': {
-        'gui.extension.webGamepad.description': 'Xcratch 拡張の例'
+        'gui.extension.webGamepad.description': 'ゲームパッドを使う'
     },
     'ja-Hira': {
-        'gui.extension.webGamepad.description': 'Xcratch (えくすくらっち)かくちょうのれい'
+        'gui.extension.webGamepad.description': 'ゲームパッドをつかう'
     }
 };
 
@@ -27,15 +27,15 @@ const entry = {
     insetIconURL: insetIconURL,
     get description () {
         return formatMessage({
-            defaultMessage: 'example extension for Xcratch',
-            description: 'Description for example extension for Xcratch',
+            defaultMessage: 'Use gamepad.',
+            description: 'Description for gamepad xcratch extension',
             id: 'gui.extension.webGamepad.description'
         });
     },
     featured: true,
     disabled: false,
     bluetoothRequired: false,
-    internetConnectionRequired: true,
+    internetConnectionRequired: false,
     helpLink: 'https://github.com/yokobond/xcx-gamepad/',
     setFormatMessage: formatter => {
         formatMessage = formatter;

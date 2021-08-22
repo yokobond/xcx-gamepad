@@ -1,7 +1,7 @@
 # xcx-gamepad
-An example extension for ([Xcratch: Extendable Scratch3 Programming Environment](https://xcratch.github.io/))
+Gamepad extension for ([Xcratch: Extendable Scratch3 Programming Environment](https://xcratch.github.io/))
 
-This extension add extra-block "do it", that executes string in its input field as a sentence in Javascript and return the result.
+This extension add extra-blocks to use gamepad in Scratch.
 
 ## ✨ What You can Do
 
