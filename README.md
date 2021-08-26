@@ -3,9 +3,10 @@ Gamepad extension for ([Xcratch: Extendable Scratch3 Programming Environment](ht
 
 This extension add extra-blocks to use gamepad in Scratch.
 
-## ✨ What You can Do
+## ✨ What You Can Do With This Extension
 
-Open [Example Project](https://xcratch.github.io/editor/#https://yokobond.github.io/xcx-gamepad/projects/example.sb3) to look at what you can do with "Gamepad" extension. 
+Play [Example Project](https://xcratch.github.io/editor/#https://yokobond.github.io/xcx-gamepad/projects/example.sb3) to look at what you can do with "Gamepad" extension. 
+<iframe src="https://xcratch.github.io/editor/player#https://yokobond.github.io/xcx-gamepad/projects/example.sb3" width="540px" height="460px"></iframe>
 
 ## How to Use in Xcratch
 
