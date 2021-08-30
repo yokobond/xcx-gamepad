@@ -36,7 +36,7 @@ const entry = {
     disabled: false,
     bluetoothRequired: false,
     internetConnectionRequired: false,
-    helpLink: 'https://github.com/yokobond/xcx-gamepad/',
+    helpLink: 'https://yokobond.github.io/xcx-gamepad/',
     setFormatMessage: formatter => {
         formatMessage = formatter;
     },

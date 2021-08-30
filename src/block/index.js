@@ -1,7 +1,7 @@
 const BlockType = require('../../extension-support/block-type');
 const ArgumentType = require('../../extension-support/argument-type');
 // const cast = require('../../util/cast');
-const log = require('../../util/log');
+// const log = require('../../util/log');
 
 /**
  * Formatter which is used for translation.
@@ -361,12 +361,9 @@ class WebGamePadBlocks {
 
     addGamepad (gamepad) {
         this.controllers[gamepad.index] = gamepad;
-        log.info(`added: controller[${gamepad.index}]`);
-        log.debug(gamepad);
     }
 
     removeGamepad (gamepad) {
-        log.info(`removed: controller[${gamepad.index}]`);
         delete this.controllers[gamepad.index];
     }
 
@@ -703,5 +700,4 @@ const extensionTranslations = {
     }
 };
 
-exports.blockClass = WebGamePadBlocks; // loadable-extension needs this line.
 module.exports = WebGamePadBlocks;
